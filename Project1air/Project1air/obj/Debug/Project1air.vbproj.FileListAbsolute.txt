@@ -1,0 +1,12 @@
+C:\Users\Windows 10\Desktop\Project1air\Project1air\bin\Debug\Project1air.exe.config
+C:\Users\Windows 10\Desktop\Project1air\Project1air\bin\Debug\Project1air.exe
+C:\Users\Windows 10\Desktop\Project1air\Project1air\bin\Debug\Project1air.pdb
+C:\Users\Windows 10\Desktop\Project1air\Project1air\bin\Debug\Project1air.xml
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.Form1.resources
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.Resources.resources
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.exe
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.xml
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.pdb
+C:\Users\Windows 10\Desktop\Project1air\Project1air\obj\Debug\Project1air.frmLap2.resources
